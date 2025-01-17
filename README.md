@@ -1,4 +1,4 @@
- # GAME Python SDK Library
+  # GAME Python SDK Library
 The GAME Python SDK is a library that allows you interact and develop agents powered by the GAME architecture.
 
 ## Installation
